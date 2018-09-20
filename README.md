@@ -10,7 +10,7 @@ The **movies data** and **user data** are in `data/movies.dat` and `data/users.d
 The **ratings data** can be found in `data/training.csv`. The users' ratings have been broken into a training and test set for you (to obtain the testing set, we have split the 20% of **the most recent** ratings).
 
 
-## Target Goal [read carefully]
+## Target Goal
 
 My target was to provide a rating for each of those `user,movie` pairs. You will submit a csv file with three columns `user,movie,rating` as created by the script `src/run.py` (see below).
 
